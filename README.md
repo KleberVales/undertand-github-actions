@@ -22,6 +22,7 @@
 
 ### 4.1 Distribute and control actions and workflows
 ### 4.2 Managing implementers at scale
+### 4.3 Managing encrypted secrets and variables
 
 ## 5. Secure and optimized automation 
 
