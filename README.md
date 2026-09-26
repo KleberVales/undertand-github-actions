@@ -21,6 +21,7 @@
 ## 4. Manage GitHub Actions for the organization
 
 ### 4.1 Distribute and control actions and workflows
+### 4.2 Managing implementers at scale
 
 ## 5. Secure and optimized automation 
 
