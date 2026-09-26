@@ -9,6 +9,7 @@
 ## 2. Consume and troubleshoot workflows
 
 ### 2.1 Interpreting workflow behavior and outcomes
+### 2.2 Accessing workflow artifacts and logs
 
 ## 3. Create and maintain actions
 ## 4. Manage GitHub Actions for the organization
