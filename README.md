@@ -19,5 +19,8 @@
 ### 3.3 Distribute and maintain shares
 
 ## 4. Manage GitHub Actions for the organization
+
+### 4.1 Distribute and control actions and workflows
+
 ## 5. Secure and optimized automation 
 
