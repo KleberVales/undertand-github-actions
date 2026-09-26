@@ -7,6 +7,9 @@
 ### 1.3 Manage workflow execution and outputs
 
 ## 2. Consume and troubleshoot workflows
+
+### 2.1 Interpreting workflow behavior and outcomes
+
 ## 3. Create and maintain actions
 ## 4. Manage GitHub Actions for the organization
 ## 5. Secure and optimized automation 
