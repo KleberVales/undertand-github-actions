@@ -35,5 +35,5 @@
 
 **Java & Spring Software Engineer**
 
-| Cloud | DevOps | Generative AI |
+| Cloud | DevOps | Generative AI | Methodologies |
 
