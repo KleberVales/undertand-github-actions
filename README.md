@@ -15,6 +15,7 @@
 ## 3. Create and maintain actions
 
 ### 3.1 Create and resolve custom actions
+### 3.2 Define action structure and metadata
 
 ## 4. Manage GitHub Actions for the organization
 ## 5. Secure and optimized automation 
