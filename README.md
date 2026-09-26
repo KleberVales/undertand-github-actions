@@ -35,5 +35,5 @@
 
 **Java & Spring Software Engineer**
 
-| Cloud |
+| Cloud | DevOps |
 
