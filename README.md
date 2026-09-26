@@ -33,5 +33,5 @@
 
 ### Kleber Vales
 
-**Java & Spring Software**
+**Java & Spring Software Engineer**
 
