@@ -10,6 +10,7 @@
 
 ### 2.1 Interpreting workflow behavior and outcomes
 ### 2.2 Accessing workflow artifacts and logs
+### 2.3 Using and managing workflow templates
 
 ## 3. Create and maintain actions
 ## 4. Manage GitHub Actions for the organization
