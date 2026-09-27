@@ -37,11 +37,11 @@
 
 | Cloud | DevOps | Generative AI | Methodologies | Architectures |
 
-🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
-🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
+🏆 **Oracle Certified Associate: Java SE 7 Programmer**  
+🏆 **Microsoft Technology Associate: Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
 🏆 **Oracle Cloud Infrastructure: DevOps Professional**  
-🏆 **Oracle Cloud Infrastructure**  
+🏆 **Oracle Cloud Infrastructure: Generative AI Professional**  
 
 
 
