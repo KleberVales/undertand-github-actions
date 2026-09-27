@@ -39,7 +39,9 @@
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
-🏆 **Scrum Fundamentals Certified (SFC™)**
+🏆 **Scrum Fundamentals Certified (SFC™)**  
+🏆 **Oracle Cloud Infrastructure**  
+
 
 
 https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/gh-200?utm_source=chatgpt.com
