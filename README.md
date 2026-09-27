@@ -37,7 +37,7 @@
 
 | Cloud | DevOps | Generative AI | Methodologies | Architectures |
 
-🏆 **Oracle Certified Associate**  
+🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 
 
 https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/gh-200?utm_source=chatgpt.com
