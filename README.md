@@ -42,7 +42,7 @@
 🏆 **Scrum Fundamentals Certified (SFC™)**  
 🏆 **Oracle Cloud Infrastructure: DevOps Professional**  
 🏆 **Oracle Cloud Infrastructure: Generative AI Professional**  
-
+🏆 **Agentic AI Certified Fundations Associate**
 
 
 
