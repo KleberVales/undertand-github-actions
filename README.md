@@ -37,5 +37,8 @@
 
 | Cloud | DevOps | Generative AI | Methodologies | Architectures |
 
+🏆 **Oracle Certified Associate**  
+
+
 https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/gh-200?utm_source=chatgpt.com
 
