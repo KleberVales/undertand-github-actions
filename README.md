@@ -41,8 +41,8 @@ LinkedIn: www.linkedin.com/in/kleber-vales
 | Cloud | DevOps | Generative AI | Methodologies | Architectures |
 
 🏆 **Oracle Cloud Infrastructure 2025 DevOps Professional**  
-🏆 **Oracle Cloud Infrastructure 2025 Generative AI Professional**
-🏆 **Oracle Cloud Infrastructure Architect Associate**
+🏆 **Oracle Cloud Infrastructure 2025 Generative AI Professional**  
+🏆 **Oracle Cloud Infrastructure Architect Associate**  
 🏆 **Oracle Certified Associate: Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate: Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**    
