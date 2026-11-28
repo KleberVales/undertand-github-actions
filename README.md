@@ -49,10 +49,7 @@
 🏆 **OCI Architect Associate**  
 🏆 **OCA – Java SE 7 Programmer | MTA – Software Development Fundamentals**  
 🏆 **OCI AI Foundations Associate | Agentic AI Certified Fundations Associate**  
-
-
-
-
+🏆 **Scrum Fundamentals Certified (SFC™)**
 
 https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/gh-200?utm_source=chatgpt.com
 
