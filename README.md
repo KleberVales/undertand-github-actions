@@ -40,6 +40,9 @@
 
 `DevOps` | `Cloud` | `Generative AI` | `Software Architecture` | `Agile Methodologies`
 
+🎓 **Bachelor's Degree in Computer Science**  
+
+
 
 
 
