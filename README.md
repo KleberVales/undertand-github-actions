@@ -45,7 +45,9 @@
 
 **CERTIFICATIONS**
 
-🏆 **OCI 2025 – DevOps Professional | Generative AI Professional**  
+🏆 **OCI 2025 – DevOps Professional | Generative AI Professional** 
+🏆 **OCI Architect Associate**  
+
 
 
 
