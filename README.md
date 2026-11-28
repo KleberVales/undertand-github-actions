@@ -45,6 +45,9 @@
 
 **CERTIFICATIONS**
 
+🏆 **OCI 2025 – DevOps Professional | Generative AI Professional**  
+
+
 
 https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/gh-200?utm_source=chatgpt.com
 
