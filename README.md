@@ -38,6 +38,10 @@
 
 **Java & Spring Software Engineer**
 
+`DevOps` | `Cloud` | `Generative AI` | `Software Architecture` | `Agile Methodologies`
+
+
+
 
 
 
