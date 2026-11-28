@@ -43,7 +43,7 @@
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
 
-
+**CERTIFICATIONS**
 
 
 https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/gh-200?utm_source=chatgpt.com
