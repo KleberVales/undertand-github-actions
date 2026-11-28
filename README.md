@@ -34,8 +34,7 @@
 ### Kleber Vales
 
 📧 Email: klebervales.dev@gmail.com  
-
-
+🔗 LinkedIn: [linkedin.com/in/kleber-vales](https://www.linkedin.com/in/kleber-vales)
 
 
 
