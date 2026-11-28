@@ -47,6 +47,8 @@
 
 🏆 **OCI 2025 – DevOps Professional | Generative AI Professional** 
 🏆 **OCI Architect Associate**  
+🏆 **OCA – Java SE 7 Programmer | MTA – Software Development Fundamentals**  
+
 
 
 
